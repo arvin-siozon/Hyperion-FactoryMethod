@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\Hyperion\Hyperion.Domain\bin\Debug\Hyperion.Domain.dll
+C:\Users\ASUS\source\repos\Hyperion\Hyperion.Domain\bin\Debug\Hyperion.Domain.pdb
+C:\Users\ASUS\source\repos\Hyperion\Hyperion.Domain\obj\Debug\Hyperion.Domain.dll
+C:\Users\ASUS\source\repos\Hyperion\Hyperion.Domain\obj\Debug\Hyperion.Domain.pdb
+C:\Users\ASUS\source\repos\Hyperion\Hyperion.Domain\obj\Debug\Hyperion.Domain.csprojAssemblyReference.cache
